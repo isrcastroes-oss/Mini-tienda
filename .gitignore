@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.vscode/
+.vs/
+*.suo
+*.user
+*.slnx
+.DS_Store
+Thumbs.db
+data/*_contador.txt
