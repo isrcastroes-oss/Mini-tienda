@@ -1,4 +1,5 @@
-﻿# -*- coding: utf-8 -*-
+
+# -*- coding: utf-8 -*-
 """
 Archivo principal del sistema Mini Tienda.
 Muestra el menú y llama a las funciones de cada módulo.
