@@ -9,4 +9,4 @@ __pycache__/
 *.slnx
 .DS_Store
 Thumbs.db
-data/*_contador.txt
+
