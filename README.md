@@ -21,7 +21,7 @@ Permite gestionar **productos, clientes, empleados y ventas**, con transacciones
 1. Clonar el repositorio:
 ```bash
 git clone https://github.com/isrcastroes-oss/Mini-tienda
-cd mini_tienda
+cd mini-tienda
 ```
 
 2. Ejecutar el programa:
